@@ -1,5 +1,7 @@
 # NFT Hydroponics System with ESP32 Microcontrollers
 
+https://github.com/enam-ahorlu/Capstone.git
+
 ## Overview
 
 This project uses two ESP32 microcontrollers to monitor and control a Nutrient Film Technique (NFT) hydroponics system. The system features multiple sensors for monitoring environmental conditions and actuators for automating the control of water flow, nutrient levels, and other critical parameters. The two ESP32 devices communicate via the ESP-NOW protocol, with the Master ESP32 responsible for data collection and decision-making, and the Slave ESP32 responsible for executing commands to control various actuators.
